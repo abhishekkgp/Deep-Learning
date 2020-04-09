@@ -1,5 +1,4 @@
 # Deep-Learning
-
 Train LeNet5 on MNIST with SGD and ADAM
 	a)LeNet5 on MNIST with SGD:
   		-->Effect of training loss vs. Batch size for a fixed learning rate
